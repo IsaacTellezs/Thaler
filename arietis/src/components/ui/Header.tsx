@@ -10,7 +10,7 @@ const Header: React.FC = () => {
       <div className="flex items-center xl:w-1/6">
         
         <a href="#" className="text-3xl font-bold text-gray-800 relative">
-        <img src="ARIETIS-09.png" alt="Arietis Logo" className="h-10 mr-2" /> 
+        <img src="logo2.png" alt="Arietis Logo" className="h-10 mr-2" /> 
         </a>
       </div>
       <nav

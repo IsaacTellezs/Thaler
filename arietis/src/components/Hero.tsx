@@ -2,7 +2,6 @@ import React from 'react';
 
 import {
     RiCheckboxBlankCircleFill,
-    RiPlayFill,
     RiStarFill,
   } from "react-icons/ri";
 
