@@ -1,7 +1,6 @@
 {
   "name": "arietis",
   "private": true,
-  "homepage": "https://isaactellezs.github.io/Thaler",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
